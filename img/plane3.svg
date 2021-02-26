@@ -1,0 +1,12 @@
+<svg width="562" height="522" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="524" width="564" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon stroke="#302c2a" stroke-miterlimit="10" stroke-linecap="square" stroke-width="20" fill="none" id="svg_1" points="41.975990295410156,85 184.74464027405156,85 517.127971095937,256 184.74464027405156,427 41.975990295410156,427 88.82196326234225,256 " class="st0"/>
+  <line stroke="#302c2a" stroke-miterlimit="10" stroke-linecap="square" stroke-width="20" fill="none" id="svg_2" y2="256" y1="256" x2="486.696" x1="114.696" class="st0"/>
+ </g>
+</svg>
